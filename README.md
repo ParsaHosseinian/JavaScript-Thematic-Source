@@ -4,9 +4,10 @@
 
 <img src="assets/js.gif" style="width: 1600px; height: 370px;">
 
-## ✔️ Codes---Trainings---Introductions-for-JS
+## ✔️ JS Source
 
--   In this repository I keep tracking my process of <mark>**learning JavaScript**</mark> by uploading what I've learned and some of my training codes.
+- In this Repo we have a Learning Source for JavaScript
 
-## ✔️ Time Table
+## ✔️ Usable for Who
 <img src="assets/js-animation.gif" style="width: 120px; height: 200px;">
+- For anyone who wnats to Learn JavaScript by studying this or who that forgot some code and wants to come back to see what was it.
