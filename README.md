@@ -9,5 +9,8 @@
 - In this Repo we have a Learning Source for JavaScript
 
 ## ✔️ Usable for Who
-<img src="assets/js-animation.gif" style="width: 120px; height: 200px;">
+
 - For anyone who wnats to Learn JavaScript by studying this or who that forgot some code and wants to come back to see what was it.
+
+<img src="assets/js-animation.gif" style="width: 120px; height: 200px;">
+
