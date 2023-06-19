@@ -8,7 +8,7 @@
 
 - In this Repo we have a Learning Source for JavaScript
 
-## ✔️ Usable for Who
+## ✔️ Usefull for Who
 
 - For anyone who wnats to Learn JavaScript by studying this or who that forgot some code and wants to come back to see what was it.
 
