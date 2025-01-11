@@ -1,28 +1,15 @@
-# Javascript source
+<img src="assets/giphy.gif" style="width: 150px; height: 150px;">
 
-in this repository you will see almost every javascript concept you will need in your project even a lot more
-every file contains specific topics and related codes in javascript
-with a lot of comments which explains every line of codes
+# JavaScript-Thematic-Source
 
-## :heavy_check_mark: useful for who:
+<img src="assets/js.gif" style="width: 1600px; height: 370px;">
 
--   wants to learn javascript
--   forgot all the codes needed and wants to review
--   increase your knowledge of javascript
--   find and copy a feature in Javascript into your projects
--   want to teach Javascript from these codes
+## ✔️ JS Source
 
-## :heavy_check_mark: how to use:
+- In this Repo we have a Learning Source for JavaScript
 
--   if you want to learn or improve your Javascript skills just read line by line of code in folder 1 to 18 and try them on your own also search about them on the internet to figure it out.
--   if you forgot something in Javascript just go to the category and find or copy the code you want
+## ✔️ Usefull for Who
 
-there is an exercise file which you can test codes there.
+- For anyone who wnats to Learn JavaScript by studying this or who that forgot some code and wants to come back to see what was it.
 
-## :heavy_check_mark: Authors
-
--   created by Alireza Tayebinejad from: [@vibracode](https://www.github.com/octokatherine)
-
-## :heavy_check_mark: License
-
-free for everyone to use in any good purposes :heart:
+<img src="assets/js-animation.gif" style="width: 120px; height: 200px;">
