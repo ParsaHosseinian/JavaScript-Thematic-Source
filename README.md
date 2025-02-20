@@ -10,7 +10,8 @@
 
 ## ✔️ Usefull for Who
 
-- For anyone who wnats to Learn JavaScript by studying this or who that forgot some code and wants to come back to see what was it.
+- For anyone who wants to Learn JavaScript by studying this or who that forgot some code and wants to come back to see what was it.
 
 <img src="assets/js-animation.gif" style="width: 120px; height: 200px;">
 
+#### created with ❤️ by Parsa Hosseii
